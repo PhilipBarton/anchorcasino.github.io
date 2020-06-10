@@ -1,0 +1,10 @@
+.box{
+    position: relative;
+    width: 100px;
+    height: 100px;
+    margin:4px;
+    display: inline-block;
+}
+.red{
+    background-color: red;
+}

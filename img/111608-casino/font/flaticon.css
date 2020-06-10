@@ -1,0 +1,111 @@
+	/*
+  	Flaticon icon font: Flaticon
+  	Creation date: 22/06/2016 15:20
+  	*/
+
+@font-face {
+  font-family: "Flaticon";
+  src: url("./Flaticon.eot");
+  src: url("./Flaticon.eot?#iefix") format("embedded-opentype"),
+       url("./Flaticon.woff") format("woff"),
+       url("./Flaticon.ttf") format("truetype"),
+       url("./Flaticon.svg#Flaticon") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+  @font-face {
+    font-family: "Flaticon";
+    src: url("./Flaticon.svg#Flaticon") format("svg");
+  }
+}
+
+[class^="flaticon-"]:before, [class*=" flaticon-"]:before,
+[class^="flaticon-"]:after, [class*=" flaticon-"]:after {   
+  font-family: Flaticon;
+        font-size: 20px;
+font-style: normal;
+margin-left: 20px;
+}
+
+.flaticon-ace-of-clovers:before { content: "\f100"; }
+.flaticon-ace-of-diamonds:before { content: "\f101"; }
+.flaticon-ace-of-hearts:before { content: "\f102"; }
+.flaticon-ace-of-hearts-1:before { content: "\f103"; }
+.flaticon-ace-of-spades:before { content: "\f104"; }
+.flaticon-alarm-bell:before { content: "\f105"; }
+.flaticon-apple-symbol:before { content: "\f106"; }
+.flaticon-bar-sing:before { content: "\f107"; }
+.flaticon-big-bag-of-coins:before { content: "\f108"; }
+.flaticon-big-bow:before { content: "\f109"; }
+.flaticon-big-clover:before { content: "\f10a"; }
+.flaticon-big-clover-1:before { content: "\f10b"; }
+.flaticon-big-cocktail-glass:before { content: "\f10c"; }
+.flaticon-big-diamond:before { content: "\f10d"; }
+.flaticon-big-dice:before { content: "\f10e"; }
+.flaticon-big-horseshoe:before { content: "\f10f"; }
+.flaticon-big-orange:before { content: "\f110"; }
+.flaticon-big-purse:before { content: "\f111"; }
+.flaticon-big-ruby:before { content: "\f112"; }
+.flaticon-bowling-ball:before { content: "\f113"; }
+.flaticon-card-backwards:before { content: "\f114"; }
+.flaticon-card-suits:before { content: "\f115"; }
+.flaticon-casino-cctv:before { content: "\f116"; }
+.flaticon-casino-chips:before { content: "\f117"; }
+.flaticon-casino-chips-1:before { content: "\f118"; }
+.flaticon-casino-croupier:before { content: "\f119"; }
+.flaticon-casino-diamond:before { content: "\f11a"; }
+.flaticon-casino-gold:before { content: "\f11b"; }
+.flaticon-casino-manager:before { content: "\f11c"; }
+.flaticon-casino-medal:before { content: "\f11d"; }
+.flaticon-casino-roulette:before { content: "\f11e"; }
+.flaticon-casino-roulette-1:before { content: "\f11f"; }
+.flaticon-casino-security-box:before { content: "\f120"; }
+.flaticon-casino-sign:before { content: "\f121"; }
+.flaticon-casino-stack-of-coins:before { content: "\f122"; }
+.flaticon-champagne-bottle:before { content: "\f123"; }
+.flaticon-cherry-symbol:before { content: "\f124"; }
+.flaticon-clover-chip:before { content: "\f125"; }
+.flaticon-coin-with-dollar-symbol:before { content: "\f126"; }
+.flaticon-darts-game:before { content: "\f127"; }
+.flaticon-diamond-chip:before { content: "\f128"; }
+.flaticon-dice-with-numer-5:before { content: "\f129"; }
+.flaticon-dollar-bill:before { content: "\f12a"; }
+.flaticon-dollar-chip:before { content: "\f12b"; }
+.flaticon-domino-game:before { content: "\f12c"; }
+.flaticon-elegant-lady:before { content: "\f12d"; }
+.flaticon-flasher-light:before { content: "\f12e"; }
+.flaticon-grapes-symbol:before { content: "\f12f"; }
+.flaticon-heart-chip:before { content: "\f130"; }
+.flaticon-heart-suit:before { content: "\f131"; }
+.flaticon-inclined-dart:before { content: "\f132"; }
+.flaticon-inclined-lemon:before { content: "\f133"; }
+.flaticon-inclined-watermelon:before { content: "\f134"; }
+.flaticon-king-crown:before { content: "\f135"; }
+.flaticon-lottery-machine:before { content: "\f136"; }
+.flaticon-number-7:before { content: "\f137"; }
+.flaticon-one-skittle:before { content: "\f138"; }
+.flaticon-online-gambling:before { content: "\f139"; }
+.flaticon-pack-of-bills:before { content: "\f13a"; }
+.flaticon-pack-of-playing-cards:before { content: "\f13b"; }
+.flaticon-phone-gambling:before { content: "\f13c"; }
+.flaticon-playing-cards:before { content: "\f13d"; }
+.flaticon-pool-ball:before { content: "\f13e"; }
+.flaticon-pool-balls:before { content: "\f13f"; }
+.flaticon-pool-cue:before { content: "\f140"; }
+.flaticon-prestige:before { content: "\f141"; }
+.flaticon-roulette-with-arrow:before { content: "\f142"; }
+.flaticon-slot-for-coins:before { content: "\f143"; }
+.flaticon-slot-machine-strawberry:before { content: "\f144"; }
+.flaticon-slot-machine-with-sevens:before { content: "\f145"; }
+.flaticon-slot-of-bills:before { content: "\f146"; }
+.flaticon-sloth-machine-with-prize:before { content: "\f147"; }
+.flaticon-smoking-cigar:before { content: "\f148"; }
+.flaticon-spade-chip:before { content: "\f149"; }
+.flaticon-spades-symbol:before { content: "\f14a"; }
+.flaticon-table-for-playing-cards:before { content: "\f14b"; }
+.flaticon-table-of-rates:before { content: "\f14c"; }
+.flaticon-triple-sevens:before { content: "\f14d"; }
+.flaticon-wallet-with-card-sticking-out:before { content: "\f14e"; }
+.flaticon-wine-glass-with-bubbles:before { content: "\f14f"; }
